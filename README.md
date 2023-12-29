@@ -8,10 +8,18 @@
 > ✨ 已发布<a href="https://a202245.rth1.link/ZYZTK.html"> 网站免责声明</a>
 
 > [!CAUTION]
-> * 如果你发现网页上不能复制，开启`https`或者使用`127.0.0.1`。
-> * 如果你正在自定义页面元素，请保留：
->   * `Powered by PandoraNext`文字和链接。
->   * `About PandoraNext`文字和链接。
+> * 关于我：痛苦遗骸的学生！
+> * 建立网站的初衷：建立一个展示自我能力和资源共享的网站！
+> * 联系我的方式：
+>  * 通过右下角的悬浮客服窗口给我留言
+   * <a href="https://space.bilibili.com/413178148?spm_id_from=333.337.0.0"> 哔哩哔哩 </a>
+   * <a href="https://blog.csdn.net/Michaelzhu2022?type=blog">SCDN博客</a>
+   * <a href="https://discord.gg/ZnJFQDTNWQ">Discord群聊</a>
+   * <a href="https://github.com/zhuyuanzhuo">github</a>
+   * <a href="https://www.pixiv.net/users/89929149">pixiv</a>
+   * twitter：@zhuMichael47208
+   * Facebook：zhuyuanzhuo
+  
 > * 如果要抹，请在**一百多个js**文件中去除若干`dom检测`代码。
 > * 抹了后果如何我不说。
 > * `PHP`是世界上最好的编程语言。
@@ -19,9 +27,9 @@
 
 		
 ## 个人简单介绍
-* 关于我：痛苦遗骸的学生！
-* 建立网站的初衷：建立一个展示自我能力和资源共享的网站！
-* 联系我的方式：（其中的很多方式貌似都不能在中国互联网环境下使用呢）
+* 
+* 
+* （其中的很多方式貌似都不能在中国互联网环境下使用呢）
   * 通过右下角的悬浮客服窗口给我留言
   * <a href="https://space.bilibili.com/413178148?spm_id_from=333.337.0.0"> 哔哩哔哩 </a>
   * <a href="https://blog.csdn.net/Michaelzhu2022?type=blog">SCDN博客</a>
