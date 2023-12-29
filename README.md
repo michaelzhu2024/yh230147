@@ -1,13 +1,13 @@
 # 朱远卓的主站（备份）
 
-> [!IMPORTANT]（公告）
+> [!IMPORTANT]
 > ✨ 热烈欢迎怡海中学2304班同学访问！
 > 
 > ✨ 在线客服功能上线，点击网站右下角图标即可。
 > 
 > ✨ 已发布<a href="https://a202245.rth1.link/ZYZTK.html"> 网站免责声明</a>
 
-> [!CAUTION]（警告）
+> [!CAUTION]
 > * 如果你发现网页上不能复制，开启`https`或者使用`127.0.0.1`。
 > * 如果你正在自定义页面元素，请保留：
 >   * `Powered by PandoraNext`文字和链接。
