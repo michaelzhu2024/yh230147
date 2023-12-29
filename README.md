@@ -24,11 +24,11 @@
 		
 ## 个人简单介绍
 * 
-* 
+* pyinstaller app.spec
 * （其中的很多方式貌似都不能在中国互联网环境下使用呢）
 5. 使用spec文件来构建可执行文件:  
 ```Plain
-pyinstaller app.spec
+哈哈哈哈？？？？？？
 ```
 
 
