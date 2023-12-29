@@ -12,13 +12,13 @@
 > * 建立网站的初衷：建立一个展示自我能力和资源共享的网站！
 > * 联系我的方式：
 >  * 通过右下角的悬浮客服窗口给我留言
-   * <a href="https://space.bilibili.com/413178148?spm_id_from=333.337.0.0"> 哔哩哔哩 </a>
-   * <a href="https://blog.csdn.net/Michaelzhu2022?type=blog">SCDN博客</a>
-   * <a href="https://discord.gg/ZnJFQDTNWQ">Discord群聊</a>
-   * <a href="https://github.com/zhuyuanzhuo">github</a>
-   * <a href="https://www.pixiv.net/users/89929149">pixiv</a>
-   * twitter：@zhuMichael47208
-   * Facebook：zhuyuanzhuo
+>   * <a href="https://space.bilibili.com/413178148?spm_id_from=333.337.0.0"> 哔哩哔哩 </a>
+>   * <a href="https://blog.csdn.net/Michaelzhu2022?type=blog">SCDN博客</a>
+>   * <a href="https://discord.gg/ZnJFQDTNWQ">Discord群聊</a>
+>   * <a href="https://github.com/zhuyuanzhuo">github</a>
+>   * <a href="https://www.pixiv.net/users/89929149">pixiv</a>
+>  * twitter：@zhuMichael47208
+>  * Facebook：zhuyuanzhuo
   
 > * 如果要抹，请在**一百多个js**文件中去除若干`dom检测`代码。
 > * 抹了后果如何我不说。
