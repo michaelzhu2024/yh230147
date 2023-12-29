@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-	<meta charset="utf-8">
-	<title>朱远卓的主站</title>
+	#朱远卓的主站
 	<link rel="stylesheet" href="template">
 </head>
 <body>
