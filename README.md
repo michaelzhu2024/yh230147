@@ -7,11 +7,25 @@
 > ✨ 已发布<a href="https://a202245.rth1.link/ZYZTK.html"> 网站免责声明</a>
 
 		
-	</header>
+## 个人简单介绍
+* 关于我：痛苦遗骸的学生！
+* 建立网站的初衷：建立一个展示自我能力和资源共享的网站！
+* 联系我的方式：（其中的很多方式貌似都不能在中国互联网环境下使用呢）
+  * 账号/密码
+  * Access Token
+  * Session Token
+  * Refresh Token
+  * Share Token
+* 可内置tokens（可使用上述所有Token），支持设置密码。（相当于Pandora Server）
+* 可配置共享的tokens，会有一个功能等同[chat-shared3.zhile.io](https://chat-shared3.zhile.io)的共享站（目前1841个普号、6个Plus）。
+* 为全代理模式（能想象到的都代理了），你的用户只需要跟你的部署网络能通即可。
+* 可启动为BackendAPI Proxy模式，直接使用`Access Token`调用`/backend-api/`和chat2api的接口。
+* 还有疑问，那就进Telegram群让大家围观围观：[@ja_netfilter_group](https://t.me/ja_netfilter_group)
+
 	<main>
 		<h1>感谢访问!</h1>
-		<p>1.关于我：痛苦遗骸的学生！</p>
-		<p>2.建立网站的初衷：建立一个文件分享交流网站！
+		<p>1.</p>
+		<p>2.
 		<p>3.其他跳转链接：<a href="https://space.bilibili.com/413178148?spm_id_from=333.337.0.0"> 我的B站主页 </a>（持续更新中）;<a href="https://la44r6.helplookapp.com"> 朱远卓的博客 </a>（持续更新中）;<a href="https://a202245.rth1.link/ZYZvideo.html"> 朱远卓的视频 </a>（与哔哩哔哩同步播出）；<a href="https://a202245.rth1.link/ZYZTK.html"> 网站免责声明</a>
 		<p>4.<a href="https://zhuyuanzhuo.github.io/Cloud/">远卓云盘服务</a>（已加密！）
 		<p>5.<a href="https://zyz.statuspage.io/">网站状态页面（实时更新）
