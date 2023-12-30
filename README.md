@@ -36,24 +36,6 @@
 > * 
 > * 
 
-
-		
-## 个人简单介绍
-* 
-* 
-	
-		<p>3.其他跳转链接：;（持续更新中）;（与哔哩哔哩同步播出）；
-		<p>4.（已加密！）
-		<p>5.
-		
-		<p>11.
-	
-		<p>13.twitch：<a href="https://www.twitch.tv/michaelzhuzyz">点击加入</a>
-		<p>14.
-
-
-
-
 		<header>网页小游戏（均使用AI算法进行开发）</header>
 		<p>1.<a href="https://a202245.rth1.link/%E6%B8%B8%E6%88%8F/ZYZgame1.html">猜数字游戏</a>
 		<p>2.<a href="https://a202245.rth1.link/%E6%B8%B8%E6%88%8F/ZYZgame2.html">方块消除小游戏</a>
