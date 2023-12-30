@@ -1,6 +1,6 @@
 # 朱远卓的主站（备份）
 
-> [!IMPORTANT]
+> ## 朱远卓的主站（备份）
 > ✨ 热烈欢迎怡海中学2304班同学访问！
 > 
 > ✨ 在线客服功能上线，点击网站右下角图标即可。
@@ -24,24 +24,7 @@
 		
 ## 个人简单介绍
 * 
-* pyinstaller app.spec
-* （其中的很多方式貌似都不能在中国互联网环境下使用呢）
-5. 使用spec文件来构建可执行文件:  
-```Plain
-哈哈哈哈？？？？？？
-```
-
-
-  * 通过右下角的悬浮客服窗口给我留言
->   * <a href="https://space.bilibili.com/413178148?spm_id_from=333.337.0.0"> 哔哩哔哩 </a>
->   * <a href="https://blog.csdn.net/Michaelzhu2022?type=blog">SCDN博客</a>
->   * <a href="https://discord.gg/ZnJFQDTNWQ">Discord群聊</a>
->   * <a href="https://github.com/zhuyuanzhuo">github</a>
->   * <a href="https://www.pixiv.net/users/89929149">pixiv</a>
->   * twitter：@zhuMichael47208
->   * Facebook：zhuyuanzhuo
-  
-
+* 
 	
 		<p>3.其他跳转链接：;<a href="https://la44r6.helplookapp.com"> 朱远卓的博客 </a>（持续更新中）;<a href="https://a202245.rth1.link/ZYZvideo.html"> 朱远卓的视频 </a>（与哔哩哔哩同步播出）；<a href="https://a202245.rth1.link/ZYZTK.html"> 网站免责声明</a>
 		<p>4.<a href="https://zhuyuanzhuo.github.io/Cloud/">远卓云盘服务</a>（已加密！）
