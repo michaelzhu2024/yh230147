@@ -9,18 +9,20 @@
 
 >  ## 关于我！
 > ✨ 关于我：在遗骸的学生！爱玩原神（UID：226032111）
+> 
 > ✨ 建立网站的初衷：建立一个展示自我能力和资源共享的网站！
+> 
 > ✨ 在线沟通方式：
 >  1.通过右下角的悬浮客服窗口给我留言；
 >  2.<a href="https://discord.gg/ZnJFQDTNWQ">Discord群聊</a>；
 >  3.<a href="https://github.com/zhuyuanzhuo">github</a>；
 >  4.<a href="https://twitter.com/zhuMichael47208">twitter</a>;
 >  5.<a href="https://www.pixiv.net/users/89929149">pixiv</a>;
-> * 8.<a href="https://www.facebook.com/profile.php?id=100094452263754&sk=about">facebook</a>;
-> * 9.<a href="https://space.bilibili.com/413178148">哔哩哔哩</a>；
-> * 10.<a href="https://blog.csdn.net/Michaelzhu2022?type=download">CSDN博客</a>
-> * 11.<a href="https://www.twitch.tv/michaelzhuzyz">twitch</a>；
-> * 12.tiktok：michaelzyz
+>  8.<a href="https://www.facebook.com/profile.php?id=100094452263754&sk=about">facebook</a>;
+>  9.<a href="https://space.bilibili.com/413178148">哔哩哔哩</a>；
+>  10.<a href="https://blog.csdn.net/Michaelzhu2022?type=download">CSDN博客</a>
+>  11.<a href="https://www.twitch.tv/michaelzhuzyz">twitch</a>；
+>  12.tiktok：michaelzyz
   
 
 >  ## 自建分站！
