@@ -26,11 +26,7 @@
   
 
 >  ## 自建分站！
-> * <a href="https://la44r6.helplookapp.com"> 朱远卓的博客 </a>
-> * <a href="https://a202245.rth1.link/ZYZvideo.html"> 朱远卓的视频 </a>
-> * <a href="https://a202245.rth1.link/ZYZTK.html"> 网站免责声明</a>
-> * <a href="https://zhuyuanzhuo.github.io/Cloud/">远卓云盘服务</a>
-> * <a href="https://zyz.statuspage.io/">网站状态页面（实时更新）
+> * <a href="https://la44r6.helplookapp.com"> 朱远卓的博客 </a>；<a href="https://a202245.rth1.link/ZYZvideo.html"> 朱远卓的视频 </a>；<a href="https://a202245.rth1.link/ZYZTK.html"> 网站免责声明</a>；<a href="https://zhuyuanzhuo.github.io/Cloud/">远卓云盘服务</a>；<a href="https://zyz.statuspage.io/">网站状态页面（实时更新）。
 > * 
 > * 
 > *
