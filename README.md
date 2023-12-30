@@ -18,7 +18,7 @@
 > * 5.<a href="https://www.pixiv.net/users/89929149">pixiv</a>;
 > * 8.<a href="https://www.facebook.com/profile.php?id=100094452263754&sk=about">facebook</a>;
 > * 9.<a href="https://space.bilibili.com/413178148">哔哩哔哩</a>；
-> * 10.<a href="https://blog.csdn.net/Michaelzhu2022?type=download">CSDN博客/a>。
+> * 10.<a href="https://blog.csdn.net/Michaelzhu2022?type=download">CSDN博客</a>。
   
 
 		
