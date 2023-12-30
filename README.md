@@ -18,22 +18,38 @@
 > * 5.<a href="https://www.pixiv.net/users/89929149">pixiv</a>;
 > * 8.<a href="https://www.facebook.com/profile.php?id=100094452263754&sk=about">facebook</a>;
 > * 9.<a href="https://space.bilibili.com/413178148">哔哩哔哩</a>；
-> * 10.<a href="https://blog.csdn.net/Michaelzhu2022?type=download">CSDN博客</a>。
+> * 10.<a href="https://blog.csdn.net/Michaelzhu2022?type=download">CSDN博客</a>
+> * 11.<a href="https://www.twitch.tv/michaelzhuzyz">twitch</a>；
+> * 12.tiktok：michaelzyz
   
+
+>  ## 自建分站！
+> * <a href="https://la44r6.helplookapp.com"> 朱远卓的博客 </a>
+> * <a href="https://a202245.rth1.link/ZYZvideo.html"> 朱远卓的视频 </a>
+> * <a href="https://a202245.rth1.link/ZYZTK.html"> 网站免责声明</a>
+> * <a href="https://zhuyuanzhuo.github.io/Cloud/">远卓云盘服务</a>
+> * <a href="https://zyz.statuspage.io/">网站状态页面（实时更新）
+> * 
+> * 
+> *
+> * 
+> * 
+> * 
+
 
 		
 ## 个人简单介绍
 * 
 * 
 	
-		<p>3.其他跳转链接：;<a href="https://la44r6.helplookapp.com"> 朱远卓的博客 </a>（持续更新中）;<a href="https://a202245.rth1.link/ZYZvideo.html"> 朱远卓的视频 </a>（与哔哩哔哩同步播出）；<a href="https://a202245.rth1.link/ZYZTK.html"> 网站免责声明</a>
-		<p>4.<a href="https://zhuyuanzhuo.github.io/Cloud/">远卓云盘服务</a>（已加密！）
-		<p>5.<a href="https://zyz.statuspage.io/">网站状态页面（实时更新）
+		<p>3.其他跳转链接：;（持续更新中）;（与哔哩哔哩同步播出）；
+		<p>4.（已加密！）
+		<p>5.
 		
 		<p>11.
 	
 		<p>13.twitch：<a href="https://www.twitch.tv/michaelzhuzyz">点击加入</a>
-		<p>14.tiktok(michaelzyz)
+		<p>14.
 
 
 
