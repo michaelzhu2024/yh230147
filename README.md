@@ -25,14 +25,9 @@
 >  12.tiktok：michaelzyz
   
 
->  ## 自建分站！
-> * <a href="https://la44r6.helplookapp.com"> 朱远卓的博客 </a>；<a href="https://a202245.rth1.link/ZYZvideo.html"> 朱远卓的视频 </a>；<a href="https://a202245.rth1.link/ZYZTK.html"> 网站免责声明</a>；<a href="https://zhuyuanzhuo.github.io/Cloud/">远卓云盘服务</a>；<a href="https://zyz.statuspage.io/">网站状态页面（实时更新）。
-> * 
-> * 
-> *
-> * 
-> * 
-> * 
+>  ## 其他跳转链接！
+> * <a href="https://la44r6.helplookapp.com"> 朱远卓的博客 </a>；<a href="https://a202245.rth1.link/ZYZvideo.html"> 朱远卓的视频 </a>；<a href="https://a202245.rth1.link/ZYZTK.html"> 网站免责声明</a>；<a href="https://zhuyuanzhuo.github.io/Cloud/">远卓云盘服务</a>；<a href="https://zyz.statuspage.io/">网站状态页面
+
 
 		<header>网页小游戏（均使用AI算法进行开发）</header>
 		<p>1.<a href="https://a202245.rth1.link/%E6%B8%B8%E6%88%8F/ZYZgame1.html">猜数字游戏</a>
