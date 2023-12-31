@@ -1,4 +1,15 @@
 # 朱远卓的主站（备份）
+<!DOCTYPE html>
+<html>
+<head>
+  <head>
+  <body >
+    <div id="Layer1" style="position:fixed; left:0px; top:0px; width:100%; height:100%;opacity:0.8">
+    <img src="https://s11.ax1x.com/2023/12/31/piXuhlt.jpg" width="100%" height="100%"/>
+    </div>
+    </body>
+</html>
+
 
 > ## 公告！
 > ✨ 热烈欢迎怡海中学2304班同学访问！
@@ -121,10 +132,6 @@ document.onmousedown = norightclick; // for all others
 //-->
 </script>
 
-
-
-
-<a href="https://imgse.com/i/piXuhlt"><img src="https://s11.ax1x.com/2023/12/31/piXuhlt.jpg" alt="piXuhlt.jpg" border="0" /></a>
 
 
 
