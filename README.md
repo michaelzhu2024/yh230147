@@ -25,6 +25,17 @@
 >  12.tiktok：michaelzyz
   
 
+
+
+<iframe
+  src="https://share.fastgpt.in/chat/share?shareId=q0bdn3ffqj1blm9no0x8vcxe"
+  style="width: 100%; height: 100%;"
+  frameborder="0" 
+  allow="microphone"
+/>
+
+
+
 >  ## 其他跳转链接！
 > * <a href="https://la44r6.helplookapp.com"> 朱远卓的博客 </a>；<a href="https://a202245.rth1.link/ZYZvideo.html"> 朱远卓的视频 </a>；<a href="https://a202245.rth1.link/ZYZTK.html"> 网站免责声明</a>；<a href="https://zhuyuanzhuo.github.io/Cloud/">远卓云盘服务</a>；<a href="https://zyz.statuspage.io/">网站状态页面
 
@@ -71,15 +82,6 @@
 		<p>6.<a href="https://client.chatcrypt.com/"> 加密聊天</a>
 
 		
-
-
-
-
-		<header>在线音乐</header>
-		<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1353010122&auto=0&height=66"></iframe>
-		<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=89805&auto=0&height=66"></iframe>
-
-
 
 
 
