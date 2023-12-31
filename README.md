@@ -4,7 +4,7 @@
 <head>
   <head>
   <body >
-    <div id="Layer1" style="position:fixed; left:0px; top:0px; width:100%; height:100%;opacity:0.8">
+    <div id="Layer1" style="position:fixed; left:0px; top:0px; width:100%; height:100%;opacity:0.5">
     <img src="https://s11.ax1x.com/2023/12/31/piXuhlt.jpg" width="100%" height="100%"/>
     </div>
     </body>
