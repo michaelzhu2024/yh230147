@@ -124,7 +124,7 @@ document.onmousedown = norightclick; // for all others
 
 
 
-
+<a href="https://imgse.com/i/piXuhlt"><img src="https://s11.ax1x.com/2023/12/31/piXuhlt.jpg" alt="piXuhlt.jpg" border="0" /></a>
 
 
 
