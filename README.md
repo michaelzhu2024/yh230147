@@ -1,16 +1,4 @@
 # 朱远卓的主站（备份）
-<!DOCTYPE html>
-<html>
-<head>
-  <head>
-  <body >
-    <div id="Layer1" style="position:fixed; left:0px; top:0px; width:100%; height:100opacity:0.5";z-index: 99
->
-    <img src="https://s11.ax1x.com/2023/12/31/piXuhlt.jpg" width="100%" height="100%"/>
-    </div>
-    </body>
-</html>
-
 
 > ## 公告！
 > ✨ 热烈欢迎怡海中学2304班同学访问！
