@@ -1,6 +1,4 @@
 # 朱远卓的主站（备份）
-[![piXuhlt.jpg](https://s11.ax1x.com/2023/12/31/piXuhlt.jpg)](https://imgse.com/i/piXuhlt)
-<a href="https://imgse.com/i/piXuhlt"><img src="https://s11.ax1x.com/2023/12/31/piXuhlt.md.jpg" alt="piXuhlt.jpg" border="0" /></a>
 > ## 公告！
 > ✨ 热烈欢迎怡海中学2304班同学访问！
 > 
